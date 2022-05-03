@@ -8,3 +8,6 @@ The input values can be 32-bit signed integers. The calculator handles all excep
 
 ![image](https://user-images.githubusercontent.com/82748498/127405209-49154838-3925-494e-a64d-bcc5f0cc6072.png)
 
+you can use the second file for prefix expression
+
+![image](https://user-images.githubusercontent.com/82748498/166439343-b31f074c-27f2-4f61-8642-554300aac031.png)
